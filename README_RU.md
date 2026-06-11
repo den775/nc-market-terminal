@@ -2,6 +2,10 @@
 
 Discord-бот и сборщик цен для мониторинга рынка **Night Crows** на PNIX (WEMIX).
 
+## Превью
+
+![Discord price card](assets/discord-price-card.png)
+
 ## Обзор
 
 NC Market Terminal собирает цены DEX через WebSocket, записывает общий `prices.json` и показывает в Discord автообновляемую карточку с оценкой конвертации USD → in-game diamonds.

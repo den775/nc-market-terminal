@@ -2,6 +2,10 @@
 
 Discord bot and price feeder for **Night Crows** market monitoring on PNIX (WEMIX).
 
+## Preview
+
+![Discord price card](assets/discord-price-card.png)
+
 ## Overview
 
 NC Market Terminal collects live DEX prices via WebSocket, writes a shared `prices.json`, and displays a auto-updating Discord price card with conversion estimates from USD to in-game diamonds.
