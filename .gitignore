@@ -1,0 +1,40 @@
+# Secrets and local config
+.env
+*.env
+!*.env.example
+secrets/
+credentials.json
+token.txt
+
+# Runtime data
+data/
+prices.json
+prices.json.tmp
+ingame_prices.json
+*.bak*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Logs and databases
+logs/
+*.log
+*.db
+*.sqlite
+*.sqlite3
+
+# Archives and OS
+*.zip
+*.tar.gz
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
