@@ -4,7 +4,7 @@ Discord bot and price feeder for **Night Crows** market monitoring on PNIX (WEMI
 
 ## Preview
 
-![Discord price card](assets/discord-price-card.png)
+![Discord price card](assets/discord-price-card-v2.png)
 
 ## Overview
 

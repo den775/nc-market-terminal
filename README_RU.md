@@ -4,7 +4,7 @@ Discord-бот и сборщик цен для мониторинга рынка
 
 ## Превью
 
-![Discord price card](assets/discord-price-card.png)
+![Discord price card](assets/discord-price-card-v2.png)
 
 ## Обзор
 
